@@ -7,8 +7,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/csequenc/leetcode-submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/csequenc/leetcode-submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
