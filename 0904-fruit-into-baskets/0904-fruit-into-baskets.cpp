@@ -20,13 +20,7 @@ public:
             }
 
             if(mp.size() <= 2){
-
-                int sum = 0;
-                for(auto it:mp){
-                    sum += it.second;
-                }
-
-                size = max(size,sum);
+                size = max(size, high - low + 1);
             }
         }
 
