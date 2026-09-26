@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/csequenc/leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/csequenc/leetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
+| [0053-maximum-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/csequenc/leetcode-submissions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/csequenc/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -107,4 +108,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/csequenc/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
