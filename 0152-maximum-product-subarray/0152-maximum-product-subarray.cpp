@@ -15,7 +15,7 @@ public:
             maxi = max(v1,max(v2,v3));
             mini = min(v1,min(v2,v3));
 
-            ans = max(ans,max(max(v2,v3),v1));
+            ans = max(ans, maxi);
 
         }
 
