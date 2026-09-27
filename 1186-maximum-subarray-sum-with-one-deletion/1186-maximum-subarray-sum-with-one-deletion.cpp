@@ -3,7 +3,7 @@ public:
     int maximumSum(vector<int>& arr) {
 
         int nodel = arr[0];
-        int onedel = INT_MIN;
+        int onedel = NULL;
         int ans = arr[0];
 
         for(int i=1;i<arr.size();i++){
@@ -14,12 +14,7 @@ public:
 
             nodel = max(nodel+arr[i],arr[i]);
 
-            int v;
-
-            if(prevonedel == INT_MIN) v = arr[i];
-            else v = prevonedel + arr[i];
-
-            onedel = max(v,prevnodel); 
+            onedel = max(onedel+arr[i],prevnodel);
 
             ans = max(ans,max(nodel,onedel));
 
