@@ -8,7 +8,7 @@ public:
             mp[t]++;
         }
 
-        for (auto it = mp.begin(); it != mp.end(); ++it) {
+        for (auto it = mp.begin(); it != mp.end(); it++) {
             
             if (k <= it->second) {
                 return it->first;
