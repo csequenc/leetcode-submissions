@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/csequenc/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/csequenc/leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csequenc/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/csequenc/leetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/csequenc/leetcode-submissions/tree/main/0016-3sum-closest/) | Medium |
 | [0088-merge-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +125,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0152-maximum-product-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/csequenc/leetcode-submissions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
