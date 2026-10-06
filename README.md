@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/csequenc/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/csequenc/leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/csequenc/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/csequenc/leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/csequenc/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/csequenc/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/csequenc/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/csequenc/leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/csequenc/leetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/csequenc/leetcode-submissions/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/csequenc/leetcode-submissions/tree/main/0202-happy-number/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/csequenc/leetcode-submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/csequenc/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/csequenc/leetcode-submissions/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
