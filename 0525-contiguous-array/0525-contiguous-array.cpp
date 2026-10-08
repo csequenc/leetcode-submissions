@@ -16,11 +16,6 @@ public:
 
             diff = zero-ones;
 
-            if(diff == 0){
-                ans = max(ans,i+1);
-                continue;
-            }
-
             if(mp.find(diff) == mp.end()){
                 mp[diff] = i;
             }
