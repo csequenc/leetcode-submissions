@@ -11,11 +11,11 @@ public:
             pro *= nums[i];
         }
 
-        pro = 1;
+        int pr = 1;
         for(int j=n-1;j>=0;j--){
 
-            ans[j] *= pro;
-            pro *= nums[j];
+            ans[j] *= pr;
+            pr *= nums[j];
 
         }
         return ans;
