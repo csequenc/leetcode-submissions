@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0977-squares-of-a-sorted-array](https://github.com/csequenc/leetcode-submissions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/csequenc/leetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/csequenc/leetcode-submissions/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/csequenc/leetcode-submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/csequenc/leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
 | [0974-subarray-sums-divisible-by-k](https://github.com/csequenc/leetcode-submissions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/csequenc/leetcode-submissions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/csequenc/leetcode-submissions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
