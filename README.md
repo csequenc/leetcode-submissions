@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/csequenc/leetcode-submissions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/csequenc/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/csequenc/leetcode-submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/csequenc/leetcode-submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/csequenc/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/csequenc/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/csequenc/leetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/csequenc/leetcode-submissions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/csequenc/leetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/csequenc/leetcode-submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0525-contiguous-array](https://github.com/csequenc/leetcode-submissions/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/csequenc/leetcode-submissions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/csequenc/leetcode-submissions/tree/main/0724-find-pivot-index/) | Easy |
@@ -161,4 +163,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/csequenc/leetcode-submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/csequenc/leetcode-submissions/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
